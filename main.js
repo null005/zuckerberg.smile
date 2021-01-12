@@ -20,10 +20,10 @@ const playSound = throttle(() => {
   sound.play();
 }, 20, true);
 
-const onSliderInput = e => {
+const onSliderInput = () => {
   frame = sliderEl.value;
   spriteEl.style.backgroundPositionY = `-${height*frame}px`;
-  valueEl.textContent = (Math.round(map(frame, 0, 19, 0, 1) * 10) / 10).toFixed(1);
+  valueEl.textContent = (Math.round(map(frame, 0, 10, 0, 1) * 10)).toFixed(1);
   playSound();
 }
 

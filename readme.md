@@ -1,11 +1,8 @@
-# zuckerberg.smile
-> Control Mark Zuckerbergs smile property 
+# Fraga's.smile
+> Control Daniel Fraga's smile property. 
 
-Try it yourself here: https://terkelg.github.io/zuckerberg.smile/
+Based on 'zuckerberg.smile' from 'terkel'.
 
-Remember when he tried to convince us he [was human](https://www.youtube.com/watch?v=2qGVVxaosDM)?
+Original Author: github.com/terkelg/zuckerberg.smile
 
 
-## License
-
-MIT © [Terkel Gjervig](https://terkel.com)

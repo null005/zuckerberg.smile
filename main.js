@@ -23,7 +23,7 @@ const playSound = throttle(() => {
 const onSliderInput = e => {
   frame = sliderEl.value;
   spriteEl.style.backgroundPositionY = `-${height*frame}px`;
-  valueEl.textContent = (Math.round(map(frame, 0, 19, 0, 1) * 10) / 10).toFixed(1);
+  valueEl.textContent = (Math.round(map(frame, 0, 1, 0, 1) * 10) / 10).toFixed(1);
   playSound();
 }
 

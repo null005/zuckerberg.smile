@@ -3,5 +3,5 @@
 
 Based on 'zuckerberg.smile' from 'terkel'.
 
-one of the worst sites at the entire world!
+one of the worsts sites at the entire world!
 
